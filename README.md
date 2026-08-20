@@ -1,5 +1,6 @@
-<!-- 👇 Bu yerga o'zingizning banner (background) rasmingiz linkini qo'ying -->
-<img src="BANNER_RASM_LINKI" alt="Profile Background Image" style="height: 220px; width: 100vh+220px;"/>
+<!-- Banner qo'shmoqchi bo'lsangiz, rasmni repo'ga yuklab, quyidagi qatorni oching:
+<img src="./banner.png" alt="Banner" width="100%"/>
+-->
 
 <h1 align="center">Hi 👋, I'm Yashnar</h1>
 <h3 align="center">Full stack web engineer from Uzbekistan. Node.js &amp; Python backend, React/Next.js frontend. Always ready to learn and improve.</h3>
@@ -151,10 +152,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=XamzayevYashnar&theme=buefy&show_icons=true" alt="Yashnar's GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=XamzayevYashnar&theme=buefy&show_icons=true&hide_border=true&cache_seconds=1800" alt="Yashnar's GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=XamzayevYashnar&layout=compact&langs_count=8&card_width=320&theme=buefy" alt="Yashnar's Top Languages"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=XamzayevYashnar&layout=compact&langs_count=8&card_width=320&theme=buefy&hide_border=true" alt="Yashnar's Top Languages"/>
   </a>
 </p>
 
@@ -174,7 +175,7 @@
 
 <p align="center">
   <a href="https://github.com/XamzayevYashnar">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=XamzayevYashnar" alt="Yashnar's Streak Stats"/>
+    <img src="https://streak-stats.demolab.com/?user=XamzayevYashnar&theme=buefy&hide_border=true" alt="Yashnar's Streak Stats"/>
   </a>
 </p>
 
