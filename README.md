@@ -10,17 +10,33 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashnar-xamzayev-90ab00394/">
-    <img src="https://img.shields.io/badge/LinkedIn-082032?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/TELEGRAM_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-082032?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/>
+  <a href="https://t.me/yashnar_py">
+    <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/>
   </a>
-  <a href="https://www.instagram.com/INSTAGRAM_USERNAME/">
-    <img src="https://img.shields.io/badge/Instagram-082032?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  <a href="https://www.instagram.com/xamzayev_yashnar/">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
   </a>
-  <a href="mailto:EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-082032?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  <a href="mailto:xamzayevyashnar060@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
   </a>
+  <a href="https://www.youtube.com/@Black_Shot_">
+    <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/xamzayevyashnar/">
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codewars.com/users/XamzayevYashnarbek">
+    <img src="https://img.shields.io/badge/Codewars-0D1117?style=for-the-badge&logo=codewars&logoColor=B1361E" alt="Codewars"/>
+  </a>
+  <a href="https://gitlab.com/xamzayevyashnar060">
+    <img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-xamzayevyashnar-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord-xamzayevyashnar"/>
 </p>
 
 <p align="center">
@@ -219,6 +235,29 @@ const yashnar = {
 - [ ] Texnik maqolalar yozishni boshlash
 
 ---
+
+---
+
+## 📬 Bog'lanish
+
+<table align="center">
+  <tr>
+    <td align="center"><b>📧 Email</b></td>
+    <td><a href="mailto:xamzayevyashnar060@gmail.com">xamzayevyashnar060@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>💬 Telegram</b></td>
+    <td><a href="https://t.me/yashnar_py">@yashnar_py</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📞 Telefon</b></td>
+    <td><a href="tel:+998903913828">+998 90 391 38 28</a> &nbsp;·&nbsp; <a href="tel:+998774892228">+998 77 489 22 28</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎮 Discord</b></td>
+    <td>xamzayevyashnar</td>
+  </tr>
+</table>
 
 <p align="center">
   <i>"Ishlaydigan kod — yaxshi. Toza kod — ideal."</i>
