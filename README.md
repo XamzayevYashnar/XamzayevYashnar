@@ -36,7 +36,7 @@
   <a href="https://gitlab.com/xamzayevyashnar060">
     <img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-xamzayevyashnar-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord-xamzayevyashnar"/>
+  <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
 </p>
 
 <p align="center">
@@ -255,7 +255,7 @@ const yashnar = {
   </tr>
   <tr>
     <td align="center"><b>🎮 Discord</b></td>
-    <td>xamzayevyashnar</td>
+    <td>blackshot0555_14009</td>
   </tr>
 </table>
 
