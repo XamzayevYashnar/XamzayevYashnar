@@ -152,10 +152,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=XamzayevYashnar&theme=buefy&show_icons=true&hide_border=true&cache_seconds=1800" alt="Yashnar's GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XamzayevYashnar&show_icons=true&theme=buefy&hide_border=true&cache_seconds=86400" alt="Yashnar's GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=XamzayevYashnar&layout=compact&langs_count=8&card_width=320&theme=buefy&hide_border=true" alt="Yashnar's Top Languages"/>
+    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=XamzayevYashnar&layout=compact&langs_count=8&card_width=320&theme=buefy&hide_border=true&cache_seconds=86400" alt="Yashnar's Top Languages"/>
   </a>
 </p>
 
@@ -165,7 +165,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=XamzayevYashnar&column=6&theme=buefy&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=XamzayevYashnar&column=6&theme=buefy&no-frame=true&margin-w=10&margin-h=10" alt="🏆 Github Profile Trophy"/>
   </a>
 </p>
 
@@ -175,7 +175,7 @@
 
 <p align="center">
   <a href="https://github.com/XamzayevYashnar">
-    <img src="https://streak-stats.demolab.com/?user=XamzayevYashnar&theme=buefy&hide_border=true" alt="Yashnar's Streak Stats"/>
+    <img src="https://streak-stats.demolab.com?user=XamzayevYashnar&theme=dark&hide_border=true&card_width=500" alt="Yashnar's Streak Stats"/>
   </a>
 </p>
 
