@@ -141,7 +141,7 @@
 # 🌟 GitHub Profili
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/XamzayevYashnar">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashnarbek-nodejs&theme=github-compact" alt="Yashnarbek's Activity Graph"/>
   </a>
 </p>
