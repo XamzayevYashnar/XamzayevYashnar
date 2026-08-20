@@ -138,45 +138,53 @@
 
 ---
 
-# 🌟 GitHub Profili
+## 📈 GitHub faoliyati
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XamzayevYashnar&theme=github-compact" alt="Yashnar's Activity Graph"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XamzayevYashnar&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <b>💼 Ish joyi</b><br/>
+      Najot Talim
+    </td>
+    <td align="center" width="200">
+      <b>🌍 Joylashuv</b><br/>
+      Uzbekistan
+    </td>
+    <td align="center" width="200">
+      <b>🎯 Yo'nalish</b><br/>
+      Full Stack Web
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>⚙️ Asosiy stack</b><br/>
+      Nest.js · React
+    </td>
+    <td align="center">
+      <b>🐍 Ikkinchi stack</b><br/>
+      Python · Aiogram
+    </td>
+    <td align="center">
+      <b>🗄️ Ma'lumotlar bazasi</b><br/>
+      PostgreSQL · MongoDB
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/XamzayevYashnar?tab=repositories"><b>📂 Barcha repozitoriylar</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/XamzayevYashnar?tab=stars"><b>⭐ Stars</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/yashnar-xamzayev-90ab00394/"><b>💼 LinkedIn</b></a>
 </p>
 
 ---
 
-### 📊 Stats
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XamzayevYashnar&show_icons=true&theme=buefy&hide_border=true&cache_seconds=86400" alt="Yashnar's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=XamzayevYashnar&layout=compact&langs_count=8&card_width=320&theme=buefy&hide_border=true&cache_seconds=86400" alt="Yashnar's Top Languages"/>
-  </a>
+  <i>“Kod yozish — bu muammoni hal qilish san'ati.”</i>
 </p>
-
----
-
-### 🏆 Awards
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=XamzayevYashnar&column=6&theme=buefy&no-frame=true&margin-w=10&margin-h=10" alt="🏆 Github Profile Trophy"/>
-  </a>
-</p>
-
----
-
-### 🔥 Longest streak stats
-
-<p align="center">
-  <a href="https://github.com/XamzayevYashnar">
-    <img src="https://streak-stats.demolab.com?user=XamzayevYashnar&theme=dark&hide_border=true&card_width=500" alt="Yashnar's Streak Stats"/>
-  </a>
-</p>
-
----
