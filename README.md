@@ -1,10 +1,10 @@
 <!-- 👇 Bu yerga o'zingizning banner (background) rasmingiz linkini qo'ying -->
 <img src="BANNER_RASM_LINKI" alt="Profile Background Image" style="height: 220px; width: 100vh+220px;"/>
 
-<h1 align="center">Hi 👋, I'm Yashnarbek</h1>
-<h3 align="center">Node.js backend developer from Uzbekistan, focused on building efficient server-side applications and APIs. Always ready to learn and improve.</h3>
+<h1 align="center">Hi 👋, I'm Yashnar</h1>
+<h3 align="center">Full stack web engineer from Uzbekistan. Node.js &amp; Python backend, React/Next.js frontend. Always ready to learn and improve.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashnarbek-nodejs&label=Profile%20views&color=0e75b6&style=flat" alt="yashnarbek-nodejs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XamzayevYashnar&label=Profile%20views&color=0e75b6&style=flat" alt="XamzayevYashnar" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **nest.js and DevOps**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/yashnarbek-nodejs">Click here</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/XamzayevYashnar?tab=repositories">Click here</a>
 
 - 📝 I regularly write articles on <a href="https://t.me/TELEGRAM_KANALINGIZ">Telegram Blog</a>
 
-- 💬 Ask me about **JavaScript, Node.js, TypeScript, Nest.js, PostgreSQL, Redis**
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, Nest.js, Python, PostgreSQL, Redis**
 
-- 📫 How to reach me **yashnarbek@gmail.com**
+- 📫 How to reach me **EMAIL_MANZILINGIZ**
 
 - ⚡ Fun fact **Backend developers are like ninjas: you never see them, but without them, everything would fall apart! 🥷💻**
 
@@ -26,7 +26,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/USERNAME)
 [![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/USERNAME/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/yashnar-xamzayev-90ab00394/)
 
 ## 📚 Texnologiyalar
 
@@ -138,11 +138,24 @@
 
 ---
 
+## 🚀 Loyihalar
+
+| Loyiha | Tavsif | Stack |
+| --- | --- | --- |
+| [MARS-SPACE-MVP-ERP](https://github.com/XamzayevYashnar/MARS-SPACE-MVP-ERP-NEST-JS-REACT-FULL-STACK) | Mars Space uchun MVP ERP tizimi | Nest.js · React · TypeScript |
+| [Najot-Talim-ERP](https://github.com/XamzayevYashnar/Najot-Talim-ERP-Full-Stack) | O'quv markaz uchun full-stack ERP | TypeScript |
+| [Uzum Market Clone](https://github.com/XamzayevYashnar/Uzum-Market-on-Node-JS-Full-Stack-) | Marketplace full-stack ilova | Node.js · JavaScript |
+| [CRM Barber](https://github.com/XamzayevYashnar/CRM-Barber-ExpressJS-React-Full-Stack-App) | Barbershop uchun CRM | Express.js · React · TypeScript |
+| [Clinic Booking System](https://github.com/XamzayevYashnar/CLINIC-BOOKING-SYSTEM) | Klinikaga onlayn navbat olish tizimi | Web |
+| [Navruz Bot](https://github.com/XamzayevYashnar/Navruz-Bot-Aiogram-Advanced) | Advanced Telegram bot | Python · Aiogram |
+
+---
+
 # 🌟 GitHub Profili
 
 <p align="center">
-  <a href="https://github.com/XamzayevYashnar">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashnarbek-nodejs&theme=github-compact" alt="Yashnarbek's Activity Graph"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XamzayevYashnar&theme=github-compact" alt="Yashnar's Activity Graph"/>
   </a>
 </p>
 
@@ -152,10 +165,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashnarbek-nodejs&theme=buefy&show_icons=true" alt="Yashnarbek's GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=XamzayevYashnar&theme=buefy&show_icons=true" alt="Yashnar's GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnarbek-nodejs&layout=compact&langs_count=8&card_width=320&theme=buefy" alt="Yashnarbek's Top Languages"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=XamzayevYashnar&layout=compact&langs_count=8&card_width=320&theme=buefy" alt="Yashnar's Top Languages"/>
   </a>
 </p>
 
@@ -165,7 +178,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashnarbek-nodejs&column=6&theme=buefy&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=XamzayevYashnar&column=6&theme=buefy&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
   </a>
 </p>
 
@@ -174,17 +187,9 @@
 ### 🔥 Longest streak stats
 
 <p align="center">
-  <a href="https://github.com/yashnarbek-nodejs">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=yashnarbek-nodejs" alt="Yashnarbek's Streak Stats"/>
+  <a href="https://github.com/XamzayevYashnar">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=XamzayevYashnar" alt="Yashnar's Streak Stats"/>
   </a>
 </p>
 
 ---
-
-### ⏱️ WakaTime stats
-
-<p align="center">
-  <a href="https://wakatime.com/">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME_USERNAME" alt="Yashnarbek's WakaTime Stats"/>
-  </a>
-</p>
